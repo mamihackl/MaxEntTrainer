@@ -1,0 +1,15 @@
+LING572 HW7
+Nat Byington
+Mami Hackl 
+26/Feb/2010
+
+Q3
+	Training accuracy	Test accuracy
+Mallet	0.96851851		0.84
+q1.sh	0.968518518519		0.833333333333
+q2.sh	0.96852 		0.82667
+
+Q4
+The result is very similar for all the classifiers.
+As expected, training has much better accuracy than test.
+
